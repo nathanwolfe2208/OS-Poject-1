@@ -1,3 +1,8 @@
+The objective of this project was to demonstrate an
+understanding of several concepts. Such as shared memory,
+semaphores, and threads. This project demonstrates the product
+consumer problem, where there is a table with 2 slots, and a
+producer places items on it, and the consumer removes them.
 
 
 Commands to run code:
